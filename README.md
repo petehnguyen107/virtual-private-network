@@ -1,6 +1,6 @@
 # virtual-private-network
 <p>
-<img src="https://i.imgur.com/L6SfdKW.png" height="50%" width="50%" alt="ProtonVPN"; />
+<img src="https://i.imgur.com/L6SfdKW.png" class="centerImage" height="50%" width="50%" alt="ProtonVPN"; />
 </p>
 
 <h1>Virtual Machine Network in Microsoft Azure</h1>
