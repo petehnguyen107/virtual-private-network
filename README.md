@@ -1,5 +1,5 @@
 # virtual-private-network
-<p>
+<p align="center">
 <img src="https://i.imgur.com/L6SfdKW.png" class="centerImage" height="50%" width="50%" alt="ProtonVPN"; />
 </p>
 
