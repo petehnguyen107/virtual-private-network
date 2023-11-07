@@ -1,7 +1,8 @@
 # virtual-private-network
 <p>
-<img src="https://i.imgur.com/L6SfdKW.png" height="60%" width="60%" alt="ProtonVPN" align="center"/>
+<img src="https://i.imgur.com/L6SfdKW.png" height="50%" width="50%" alt="ProtonVPN"; />
 </p>
+
 <h1>Virtual Machine Network in Microsoft Azure</h1>
 This tutorial outlines how to set up an Virtual Private Netowkr (VPN) in a virtual machine.<br />
 
