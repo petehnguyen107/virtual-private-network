@@ -4,7 +4,7 @@
 </p>
 
 <h1>Virtual Machine Network in Microsoft Azure</h1>
-This tutorial outlines how to set up an Virtual Private Network (VPN) in a virtual machine. A VPN is a way to connect to the internet that helps keep you safe and your information private. It encrypts your information, hides your location, helps you work remotely, and allows you to access content that may otherwise be blocked. <br />
+This tutorial outlines how to set up an Virtual Private Network (VPN) in a virtual machine. Why is a VPN important? A VPN is a way to connect to the internet that helps keep you safe and your information private. It encrypts your information, hides your location, helps you work remotely, and allows you to access content that may otherwise be blocked. <br />
 
 <h2>Environments and Technologies Used</h2>
 
